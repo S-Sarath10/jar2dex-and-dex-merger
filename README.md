@@ -1,4 +1,8 @@
 [![Android CI](https://github.com/Insight-deviler/jar2dex-and-dex-merger/actions/workflows/android.yml/badge.svg)](https://github.com/Insight-deviler/jar2dex-and-dex-merger/actions/workflows/android.yml)
+
+# Notice
+This repo has been disconituned in favour of [DexMerge & Jar2Dex](https://github.com/S-Sarath10/DexMerge-Jar2Dex)
+
 # Jar2Dex and Dex merger
 Jar2Dex is an android application for 
 
